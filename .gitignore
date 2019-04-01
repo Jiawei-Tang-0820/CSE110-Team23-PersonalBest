@@ -84,3 +84,6 @@ lint/tmp/
 .idea/misc.xml
 .idea/encodings.xml
 .idea/caches/gradle_models.ser
+.idea/codeStyles/Project.xml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/profiles_settings.xml
